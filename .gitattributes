@@ -1,0 +1,4 @@
+img/cute_couple.jpeg filter=lfs diff=lfs merge=lfs -text
+img/wise_guy.gif filter=lfs diff=lfs merge=lfs -text
+img/man_crush.jpeg filter=lfs diff=lfs merge=lfs -text
+img/the_shire.jpeg filter=lfs diff=lfs merge=lfs -text
